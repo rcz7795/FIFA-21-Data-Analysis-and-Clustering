@@ -35,6 +35,6 @@ The top similar players based on clustering is given as below:
 ![test](Snips/R_2.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 The objective was to explore the FIFA 21 dataset and apply different clustering algorithms, which we were successfully able to do.
